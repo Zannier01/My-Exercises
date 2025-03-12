@@ -13,8 +13,8 @@ def add_numbers(a, b):
 
 def basic_multiplication():
      a = 5
-     b = 7
-     print(5*7)
+     b = 6
+     print(5*6)
 
 practice(9999)
 result = add_numbers(3, 5)
