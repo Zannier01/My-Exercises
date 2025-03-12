@@ -11,13 +11,17 @@ def random_function():
 def add_numbers(a, b):
     return a + b
 
-
-def user_name():
-    name = input("Please state your name: ")
-    print(name)
+def basic_multiplication():
+     a = 5
+     b = 6
+     print(5*6)
 
 practice(9999)
 result = add_numbers(3, 5)
 print("Sum:", result)
+
+
+
 random_function()
+basic_multiplication()
 
