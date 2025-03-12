@@ -1,13 +1,9 @@
-import random
 def practice(number):
     for i in range(number+1):
         print(i)
 
-# New Function to test commiting to new branch
-def random_function():
-    num1 = random.randint(10,10000)
-    print(num1)
 
+<<<<<<< HEAD
 def add_numbers(a, b):
     return a + b
 
@@ -25,3 +21,6 @@ print("Sum:", result)
 random_function()
 basic_multiplication()
 
+=======
+practice(9999)
+>>>>>>> parent of 2bdec41 (New Function in new Branch)
