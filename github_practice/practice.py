@@ -3,4 +3,9 @@ def practice(number):
         print(i)
 
 
+def add_numbers(a, b):
+    return a + b
+
 practice(9999)
+result = add_numbers(3, 5)
+print("Sum:", result)
